@@ -25,3 +25,23 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Unreal Engine Standard Ignores
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio / IDE Files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcworkspace
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
