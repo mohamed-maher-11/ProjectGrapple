@@ -45,3 +45,9 @@ DerivedDataCache/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+Build/
