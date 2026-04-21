@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [20012:20052:0421/185501.592:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [20012:20248:0421/185501.665:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [20012:20052:0421/185501.708:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -9,3 +10,35 @@
 [20012:22092:0421/185507.339:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [20212:13876:0421/185507.797:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-28D5221559A495FF6441AAC09C2F1E4A will be ignored
 [20012:20052:0421/185526.503:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[20088:20092:0421/145701.371:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20088:18808:0421/145701.518:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20092:0421/145701.553:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3060:1396:0421/145701.630:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20476:0421/145706.523:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:1396:0421/145706.636:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20092:0421/145707.582:ERROR:device_event_log_impl.cc(196)] [14:57:07.507] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[3540:12792:0421/145709.190:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D73372D372264C964FB149A727A3B8BE will be ignored
+[1388:4240:0421/145710.193:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-7B87D9C1E74D502602325829ACFECB0A will be ignored
+[20088:20476:0421/145716.527:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:1396:0421/145716.654:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20476:0421/145736.531:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:1396:0421/145736.671:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20092:0421/150334.426:ERROR:device_event_log_impl.cc(196)] [15:03:34.406] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[20088:7612:0421/150523.885:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:2280:0421/150523.888:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:7612:0421/150523.920:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:1396:0421/150523.926:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3060:1396:0421/150523.971:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20088:20476:0421/150523.971:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5212:7196:0421/165335.597:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-87D9AAF54E926554334D66C28029741C will be ignored
+[20088:20092:0421/165821.048:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[20088:20092:0421/165821.382:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[20088:20092:0421/165821.385:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
+[20088:20092:0421/165821.385:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[20088:20092:0421/165822.050:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 259 ms
+[14716:5272:0421/170325.655:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-4D80889A548905C6222D64FAA44C8344 will be ignored
+[13484:21972:0421/170326.321:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[9956:2564:0421/180727.968:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-36712454F41AD0F7EB22EEF87679A2D4 will be ignored
+[20088:20092:0421/182747.148:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> 283c22a983bab597d4adf0edd01f4e7280453d63
